@@ -1,4 +1,5 @@
 # RP-1 Checklists
+Adapted from [RurouniDonut's](https://github.com/RurouniDonut/KSP-RP1-Werner-Checklist-Config) mod and formatted it to work with KerbalChecklists.
 
 ## Dependencies
 
@@ -24,7 +25,7 @@ If you encounter issues, try the following:
 ## Credits
 
 - **KerbalChecklists** by [averageksp](https://github.com/averageksp).
-- Taken from [RurouniDonut's](https://github.com/RurouniDonut/KSP-RP1-Werner-Checklist-Config) mod and formatted it to work with KerbalChecklists.
+- Adapted from [RurouniDonut's](https://github.com/RurouniDonut/KSP-RP1-Werner-Checklist-Config) mod and formatted it to work with KerbalChecklists.
 
 ## License
 
