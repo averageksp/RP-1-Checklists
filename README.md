@@ -23,7 +23,7 @@ If you encounter issues, try the following:
 
 ## Credits
 
-- **KerbalChecklists** by [KerbalChecklists Author Name](https://github.com/averageksp).
+- **KerbalChecklists** by [averageksp](https://github.com/averageksp).
 
 ## License
 
