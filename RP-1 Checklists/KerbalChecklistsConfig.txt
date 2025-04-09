@@ -1,0 +1,3 @@
+ModName=RP-1 Checklists
+Author=averageksp
+AddToKerbalChecklists=true
