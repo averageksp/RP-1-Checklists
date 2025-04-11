@@ -51,3 +51,9 @@ False|FuelCellsRunning
 False|ActionGroupsConfigured
 False|CheckedTargetOrbitInclinationForContract
 False|OrbitAPPEEnteredForMechjeb
+False|Ensure staging naming is set up
+False|Rotate to east (clockwise, Q) for normal launch
+False|Check CoM and DCoM for fins
+False|Estimate each stage avionics' EC usage during launch
+False|Return capsules need slots to transfer experiments to
+False|Verify fuel flow priority order (crossfeed)
